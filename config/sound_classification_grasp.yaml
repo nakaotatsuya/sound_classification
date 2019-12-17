@@ -1,5 +1,5 @@
 microphone:
-  name: Respeaker 4 Mic Array (UAC1.0) # microphone name
+  name: ReSpeaker 4 Mic Array (UAC1.0) # microphone name
   rate: 16000 # sampling rate of microphone
   length: 256 # the number of sampling data in fft
                # length = rate / frequency resolution of fft
